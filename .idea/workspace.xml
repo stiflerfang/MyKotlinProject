@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71d4a1a2-046f-4c67-9907-d5a2e99034ff" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="MyTest.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="293" column="21" lean-forward="true" selection-start-line="293" selection-start-column="16" selection-end-line="293" selection-end-column="25" />
+              <folding>
+                <element signature="e#3067#3397#0" expanded="false" />
+                <element signature="e#3146#3284#0" expanded="false" />
+                <element signature="e#3334#3387#2" expanded="false" />
+                <element signature="n#!!block;n#splitFileName#0" expanded="false" />
+                <element signature="n#!!block;n#splitFileName1#0" expanded="false" />
+                <element signature="n#!!block;n#printEntries#0" expanded="false" />
+                <element signature="e#3855#3896#1" expanded="false" />
+                <element signature="n#!!block;n#PropertyChangeAware#0" expanded="false" />
+                <element signature="n#!!block;n#addPropertyChangeListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+                <element signature="n#!!block;n#removePropertyChangListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+                <element signature="n#!!block;n#Person#0" expanded="false" />
+                <element signature="e#4398#4543#0" expanded="false" />
+                <element signature="e#4595#4743#0" expanded="false" />
+                <element signature="n#!!block;n#ObservableProperty#0" expanded="false" />
+                <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty#0" expanded="false" />
+                <element signature="n#!!block;n#ObservableProperty1#0" expanded="false" />
+                <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty1#0" expanded="false" />
+                <element signature="n#!!block;n#Person1#0" expanded="false" />
+                <element signature="e#5667#5714#0" expanded="false" />
+                <element signature="e#5863#5913#0" expanded="false" />
+                <element signature="n#!!block;n#Person2#0" expanded="false" />
+                <element signature="n#!!block;n#Person3#0" expanded="false" />
+                <element signature="e#6235#6366#1" expanded="false" />
+                <element signature="n#!!block;n#Person4#0" expanded="false" />
+                <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person4#0" expanded="false" />
+                <element signature="n#!!block;n#Person5#0" expanded="false" />
+                <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person5#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Session1.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/dataStructuresAndAlgorithms/Session1.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1305">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTMLBuilder.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/HTMLBuilder.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7290">
+              <caret line="162" column="50" lean-forward="false" selection-start-line="162" selection-start-column="50" selection-end-line="162" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Session8.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session8.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="88" column="4" lean-forward="false" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Session9.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session9.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2610">
+              <caret line="44" column="53" lean-forward="false" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Session10.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session10.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="639">
+              <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Session11.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session11.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="639">
+              <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>KOTLIN_BUNDLED</find>
+      <find>kotlin</find>
+      <find>get</find>
+      <find>serializeString</find>
+      <find>serializePropertyValue</find>
+      <find>serializeList</find>
+      <find>joinToStringBuilder</find>
+      <find>setSimpleProperty</find>
+      <find>spawn</find>
+      <find>arguments</find>
+      <find>[</find>
+      <find>$</find>
+      <find>for(</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/stifler/kotlin/Session8.kt" />
+        <option value="$PROJECT_DIR$/src/com/stifler/kotlin/Session9.kt" />
+        <option value="$PROJECT_DIR$/src/com/stifler/kotlin/Session10.kt" />
+        <option value="$PROJECT_DIR$/src/com/stifler/kotlin/HTMLBuilder.kt" />
+        <option value="$PROJECT_DIR$/src/com/stifler/kotlin/Session11.kt" />
+        <option value="$PROJECT_DIR$/src/com/stifler/kotlin/dataStructuresAndAlgorithms/Session1.kt" />
+        <option value="$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1266" />
+    <option name="y" value="534" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyKotlinProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyKotlinProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyKotlinProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyKotlinProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyKotlinProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyKotlinProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyKotlinProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyKotlinProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructuresAndAlgorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyKotlinProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Hybrid-gh-pages/webapp" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Kotlin.com.stifler.kotlin.MyTestKt">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="com.stifler.kotlin.HTMLBuilderKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.stifler.kotlin.HTMLBuilderKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MyKotlinProject" />
+      <envs />
+    </configuration>
+    <configuration name="com.stifler.kotlin.MyTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.stifler.kotlin.MyTestKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MyKotlinProject" />
+      <envs />
+    </configuration>
+    <configuration name="com.stifler.kotlin.Session10Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.stifler.kotlin.Session10Kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MyKotlinProject" />
+      <envs />
+    </configuration>
+    <configuration name="com.stifler.kotlin.Session11Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.stifler.kotlin.Session11Kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MyKotlinProject" />
+      <envs />
+    </configuration>
+    <configuration name="com.stifler.kotlin.dataStructuresAndAlgorithms.Session1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.stifler.kotlin.dataStructuresAndAlgorithms.Session1Kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MyKotlinProject" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.com.stifler.kotlin.MyTestKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.com.stifler.kotlin.Session10Kt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.com.stifler.kotlin.HTMLBuilderKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.com.stifler.kotlin.Session11Kt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.com.stifler.kotlin.dataStructuresAndAlgorithms.Session1Kt" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.com.stifler.kotlin.MyTestKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.com.stifler.kotlin.dataStructuresAndAlgorithms.Session1Kt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.com.stifler.kotlin.Session11Kt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.com.stifler.kotlin.HTMLBuilderKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.com.stifler.kotlin.Session10Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71d4a1a2-046f-4c67-9907-d5a2e99034ff" name="Default" comment="" />
+      <created>1512030329610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512030329610</updated>
+      <workItem from="1512030333512" duration="2326000" />
+      <workItem from="1512033665375" duration="1975000" />
+      <workItem from="1512035676364" duration="1185000" />
+      <workItem from="1512090725087" duration="5083000" />
+      <workItem from="1512098878580" duration="10102000" />
+      <workItem from="1512356904859" duration="75000" />
+      <workItem from="1512357090526" duration="845000" />
+      <workItem from="1512358526889" duration="7393000" />
+      <workItem from="1512435835061" duration="7845000" />
+      <workItem from="1512522500267" duration="13171000" />
+      <workItem from="1512609081937" duration="857000" />
+      <workItem from="1512610124765" duration="926000" />
+      <workItem from="1512611308769" duration="125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="51908000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1266" y="534" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34529704" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283489" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21342795" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43811882" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24988516" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279703" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955304" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/stifler/kotlin/Session8.kt</url>
+          <line>202</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt</url>
+          <line>256</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>array[right]</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>low.inv()</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session8.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6768">
+          <caret line="188" column="1" lean-forward="false" selection-start-line="188" selection-start-column="1" selection-end-line="188" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session9.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3375">
+          <caret line="109" column="12" lean-forward="false" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="12" />
+          <folding>
+            <element signature="e#3067#3397#0" expanded="false" />
+            <element signature="e#3146#3284#0" expanded="false" />
+            <element signature="e#3334#3387#2" expanded="false" />
+            <element signature="n#!!block;n#splitFileName#0" expanded="false" />
+            <element signature="n#!!block;n#splitFileName1#0" expanded="false" />
+            <element signature="n#!!block;n#printEntries#0" expanded="false" />
+            <element signature="e#3855#3896#1" expanded="false" />
+            <element signature="n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#addPropertyChangeListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#removePropertyChangListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#Person#0" expanded="false" />
+            <element signature="e#4398#4543#0" expanded="false" />
+            <element signature="e#4595#4743#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#Person1#0" expanded="false" />
+            <element signature="e#5667#5714#0" expanded="false" />
+            <element signature="e#5863#5913#0" expanded="false" />
+            <element signature="n#!!block;n#Person2#0" expanded="false" />
+            <element signature="n#!!block;n#Person3#0" expanded="false" />
+            <element signature="e#6235#6366#1" expanded="false" />
+            <element signature="n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#Person5#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person5#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session8.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8460">
+          <caret line="188" column="1" lean-forward="true" selection-start-line="188" selection-start-column="1" selection-end-line="188" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session9.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="109" column="12" lean-forward="false" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="12" />
+          <folding>
+            <element signature="e#3067#3397#0" expanded="false" />
+            <element signature="e#3146#3284#0" expanded="false" />
+            <element signature="e#3334#3387#2" expanded="false" />
+            <element signature="n#!!block;n#splitFileName#0" expanded="false" />
+            <element signature="n#!!block;n#splitFileName1#0" expanded="false" />
+            <element signature="n#!!block;n#printEntries#0" expanded="false" />
+            <element signature="e#3855#3896#1" expanded="false" />
+            <element signature="n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#addPropertyChangeListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#removePropertyChangListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#Person#0" expanded="false" />
+            <element signature="e#4398#4543#0" expanded="false" />
+            <element signature="e#4595#4743#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#Person1#0" expanded="false" />
+            <element signature="e#5667#5714#0" expanded="false" />
+            <element signature="e#5863#5913#0" expanded="false" />
+            <element signature="n#!!block;n#Person2#0" expanded="false" />
+            <element signature="n#!!block;n#Person3#0" expanded="false" />
+            <element signature="e#6235#6366#1" expanded="false" />
+            <element signature="n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#Person5#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person5#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session8.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3090">
+          <caret line="181" column="31" lean-forward="true" selection-start-line="181" selection-start-column="31" selection-end-line="181" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3270">
+          <caret line="109" column="12" lean-forward="false" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="12" />
+          <folding>
+            <element signature="e#3067#3397#0" expanded="false" />
+            <element signature="e#3146#3284#0" expanded="false" />
+            <element signature="e#3334#3387#2" expanded="false" />
+            <element signature="n#!!block;n#splitFileName#0" expanded="false" />
+            <element signature="n#!!block;n#splitFileName1#0" expanded="false" />
+            <element signature="n#!!block;n#printEntries#0" expanded="false" />
+            <element signature="e#3855#3896#1" expanded="false" />
+            <element signature="n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#addPropertyChangeListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#removePropertyChangListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#Person#0" expanded="false" />
+            <element signature="e#4398#4543#0" expanded="false" />
+            <element signature="e#4595#4743#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#Person1#0" expanded="false" />
+            <element signature="e#5667#5714#0" expanded="false" />
+            <element signature="e#5863#5913#0" expanded="false" />
+            <element signature="n#!!block;n#Person2#0" expanded="false" />
+            <element signature="n#!!block;n#Person3#0" expanded="false" />
+            <element signature="e#6235#6366#1" expanded="false" />
+            <element signature="n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#Person5#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person5#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session8.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6030">
+          <caret line="201" column="31" lean-forward="true" selection-start-line="201" selection-start-column="31" selection-end-line="201" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2403">
+          <caret line="176" column="0" lean-forward="false" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+          <folding>
+            <element signature="e#3067#3397#0" expanded="false" />
+            <element signature="e#3146#3284#0" expanded="false" />
+            <element signature="e#3334#3387#2" expanded="false" />
+            <element signature="n#!!block;n#splitFileName#0" expanded="false" />
+            <element signature="n#!!block;n#splitFileName1#0" expanded="false" />
+            <element signature="n#!!block;n#printEntries#0" expanded="false" />
+            <element signature="e#3855#3896#1" expanded="false" />
+            <element signature="n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#addPropertyChangeListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#removePropertyChangListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#Person#0" expanded="false" />
+            <element signature="e#4398#4543#0" expanded="false" />
+            <element signature="e#4595#4743#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#Person1#0" expanded="false" />
+            <element signature="e#5667#5714#0" expanded="false" />
+            <element signature="e#5863#5913#0" expanded="false" />
+            <element signature="n#!!block;n#Person2#0" expanded="false" />
+            <element signature="n#!!block;n#Person3#0" expanded="false" />
+            <element signature="e#6235#6366#1" expanded="false" />
+            <element signature="n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#Person5#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person5#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session8.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4005">
+          <caret line="176" column="0" lean-forward="false" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+          <folding>
+            <element signature="e#3067#3397#0" expanded="false" />
+            <element signature="e#3146#3284#0" expanded="false" />
+            <element signature="e#3334#3387#2" expanded="false" />
+            <element signature="n#!!block;n#splitFileName#0" expanded="false" />
+            <element signature="n#!!block;n#splitFileName1#0" expanded="false" />
+            <element signature="n#!!block;n#printEntries#0" expanded="false" />
+            <element signature="e#3855#3896#1" expanded="false" />
+            <element signature="n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#addPropertyChangeListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#removePropertyChangListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#Person#0" expanded="false" />
+            <element signature="e#4398#4543#0" expanded="false" />
+            <element signature="e#4595#4743#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#Person1#0" expanded="false" />
+            <element signature="e#5667#5714#0" expanded="false" />
+            <element signature="e#5863#5913#0" expanded="false" />
+            <element signature="n#!!block;n#Person2#0" expanded="false" />
+            <element signature="n#!!block;n#Person3#0" expanded="false" />
+            <element signature="e#6235#6366#1" expanded="false" />
+            <element signature="n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#Person5#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person5#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session8.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4005">
+          <caret line="176" column="0" lean-forward="false" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+          <folding>
+            <element signature="e#3067#3397#0" expanded="false" />
+            <element signature="e#3146#3284#0" expanded="false" />
+            <element signature="e#3334#3387#2" expanded="false" />
+            <element signature="n#!!block;n#splitFileName#0" expanded="false" />
+            <element signature="n#!!block;n#splitFileName1#0" expanded="false" />
+            <element signature="n#!!block;n#printEntries#0" expanded="false" />
+            <element signature="e#3855#3896#1" expanded="false" />
+            <element signature="n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#addPropertyChangeListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#removePropertyChangListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#Person#0" expanded="false" />
+            <element signature="e#4398#4543#0" expanded="false" />
+            <element signature="e#4595#4743#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#Person1#0" expanded="false" />
+            <element signature="e#5667#5714#0" expanded="false" />
+            <element signature="e#5863#5913#0" expanded="false" />
+            <element signature="n#!!block;n#Person2#0" expanded="false" />
+            <element signature="n#!!block;n#Person3#0" expanded="false" />
+            <element signature="e#6235#6366#1" expanded="false" />
+            <element signature="n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#Person5#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person5#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session8.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#3067#3397#0" expanded="false" />
+            <element signature="e#3146#3284#0" expanded="false" />
+            <element signature="e#3334#3387#2" expanded="false" />
+            <element signature="n#!!block;n#splitFileName#0" expanded="false" />
+            <element signature="n#!!block;n#splitFileName1#0" expanded="false" />
+            <element signature="n#!!block;n#printEntries#0" expanded="false" />
+            <element signature="e#3855#3896#1" expanded="false" />
+            <element signature="n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#addPropertyChangeListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#removePropertyChangListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#Person#0" expanded="false" />
+            <element signature="e#4398#4543#0" expanded="false" />
+            <element signature="e#4595#4743#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#Person1#0" expanded="false" />
+            <element signature="e#5667#5714#0" expanded="false" />
+            <element signature="e#5863#5913#0" expanded="false" />
+            <element signature="n#!!block;n#Person2#0" expanded="false" />
+            <element signature="n#!!block;n#Person3#0" expanded="false" />
+            <element signature="e#6235#6366#1" expanded="false" />
+            <element signature="n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#Person5#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person5#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#3067#3397#0" expanded="false" />
+            <element signature="e#3146#3284#0" expanded="false" />
+            <element signature="e#3334#3387#2" expanded="false" />
+            <element signature="n#!!block;n#splitFileName#0" expanded="false" />
+            <element signature="n#!!block;n#splitFileName1#0" expanded="false" />
+            <element signature="n#!!block;n#printEntries#0" expanded="false" />
+            <element signature="e#3855#3896#1" expanded="false" />
+            <element signature="n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#addPropertyChangeListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#removePropertyChangListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#Person#0" expanded="false" />
+            <element signature="e#4398#4543#0" expanded="false" />
+            <element signature="e#4595#4743#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#Person1#0" expanded="false" />
+            <element signature="e#5667#5714#0" expanded="false" />
+            <element signature="e#5863#5913#0" expanded="false" />
+            <element signature="n#!!block;n#Person2#0" expanded="false" />
+            <element signature="n#!!block;n#Person3#0" expanded="false" />
+            <element signature="e#6235#6366#1" expanded="false" />
+            <element signature="n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#Person5#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person5#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#3067#3397#0" expanded="false" />
+            <element signature="e#3146#3284#0" expanded="false" />
+            <element signature="e#3334#3387#2" expanded="false" />
+            <element signature="n#!!block;n#splitFileName#0" expanded="false" />
+            <element signature="n#!!block;n#splitFileName1#0" expanded="false" />
+            <element signature="n#!!block;n#printEntries#0" expanded="false" />
+            <element signature="e#3855#3896#1" expanded="false" />
+            <element signature="n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#addPropertyChangeListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#removePropertyChangListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#Person#0" expanded="false" />
+            <element signature="e#4398#4543#0" expanded="false" />
+            <element signature="e#4595#4743#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#Person1#0" expanded="false" />
+            <element signature="e#5667#5714#0" expanded="false" />
+            <element signature="e#5863#5913#0" expanded="false" />
+            <element signature="n#!!block;n#Person2#0" expanded="false" />
+            <element signature="n#!!block;n#Person3#0" expanded="false" />
+            <element signature="e#6235#6366#1" expanded="false" />
+            <element signature="n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#Person5#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person5#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#3067#3397#0" expanded="false" />
+            <element signature="e#3146#3284#0" expanded="false" />
+            <element signature="e#3334#3387#2" expanded="false" />
+            <element signature="n#!!block;n#splitFileName#0" expanded="false" />
+            <element signature="n#!!block;n#splitFileName1#0" expanded="false" />
+            <element signature="n#!!block;n#printEntries#0" expanded="false" />
+            <element signature="e#3855#3896#1" expanded="false" />
+            <element signature="n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#addPropertyChangeListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#removePropertyChangListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#Person#0" expanded="false" />
+            <element signature="e#4398#4543#0" expanded="false" />
+            <element signature="e#4595#4743#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#Person1#0" expanded="false" />
+            <element signature="e#5667#5714#0" expanded="false" />
+            <element signature="e#5863#5913#0" expanded="false" />
+            <element signature="n#!!block;n#Person2#0" expanded="false" />
+            <element signature="n#!!block;n#Person3#0" expanded="false" />
+            <element signature="e#6235#6366#1" expanded="false" />
+            <element signature="n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#Person5#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person5#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#3067#3397#0" expanded="false" />
+            <element signature="e#3146#3284#0" expanded="false" />
+            <element signature="e#3334#3387#2" expanded="false" />
+            <element signature="n#!!block;n#splitFileName#0" expanded="false" />
+            <element signature="n#!!block;n#splitFileName1#0" expanded="false" />
+            <element signature="n#!!block;n#printEntries#0" expanded="false" />
+            <element signature="e#3855#3896#1" expanded="false" />
+            <element signature="n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#addPropertyChangeListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#removePropertyChangListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#Person#0" expanded="false" />
+            <element signature="e#4398#4543#0" expanded="false" />
+            <element signature="e#4595#4743#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#Person1#0" expanded="false" />
+            <element signature="e#5667#5714#0" expanded="false" />
+            <element signature="e#5863#5913#0" expanded="false" />
+            <element signature="n#!!block;n#Person2#0" expanded="false" />
+            <element signature="n#!!block;n#Person3#0" expanded="false" />
+            <element signature="e#6235#6366#1" expanded="false" />
+            <element signature="n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#Person5#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person5#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#3067#3397#0" expanded="false" />
+            <element signature="e#3146#3284#0" expanded="false" />
+            <element signature="e#3334#3387#2" expanded="false" />
+            <element signature="n#!!block;n#splitFileName#0" expanded="false" />
+            <element signature="n#!!block;n#splitFileName1#0" expanded="false" />
+            <element signature="n#!!block;n#printEntries#0" expanded="false" />
+            <element signature="e#3855#3896#1" expanded="false" />
+            <element signature="n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#addPropertyChangeListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#removePropertyChangListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#Person#0" expanded="false" />
+            <element signature="e#4398#4543#0" expanded="false" />
+            <element signature="e#4595#4743#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#Person1#0" expanded="false" />
+            <element signature="e#5667#5714#0" expanded="false" />
+            <element signature="e#5863#5913#0" expanded="false" />
+            <element signature="n#!!block;n#Person2#0" expanded="false" />
+            <element signature="n#!!block;n#Person3#0" expanded="false" />
+            <element signature="e#6235#6366#1" expanded="false" />
+            <element signature="n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#Person5#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person5#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#3067#3397#0" expanded="false" />
+            <element signature="e#3146#3284#0" expanded="false" />
+            <element signature="e#3334#3387#2" expanded="false" />
+            <element signature="n#!!block;n#splitFileName#0" expanded="false" />
+            <element signature="n#!!block;n#splitFileName1#0" expanded="false" />
+            <element signature="n#!!block;n#printEntries#0" expanded="false" />
+            <element signature="e#3855#3896#1" expanded="false" />
+            <element signature="n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#addPropertyChangeListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#removePropertyChangListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#Person#0" expanded="false" />
+            <element signature="e#4398#4543#0" expanded="false" />
+            <element signature="e#4595#4743#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#Person1#0" expanded="false" />
+            <element signature="e#5667#5714#0" expanded="false" />
+            <element signature="e#5863#5913#0" expanded="false" />
+            <element signature="n#!!block;n#Person2#0" expanded="false" />
+            <element signature="n#!!block;n#Person3#0" expanded="false" />
+            <element signature="e#6235#6366#1" expanded="false" />
+            <element signature="n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#Person5#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person5#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#3067#3397#0" expanded="false" />
+            <element signature="e#3146#3284#0" expanded="false" />
+            <element signature="e#3334#3387#2" expanded="false" />
+            <element signature="n#!!block;n#splitFileName#0" expanded="false" />
+            <element signature="n#!!block;n#splitFileName1#0" expanded="false" />
+            <element signature="n#!!block;n#printEntries#0" expanded="false" />
+            <element signature="e#3855#3896#1" expanded="false" />
+            <element signature="n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#addPropertyChangeListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#removePropertyChangListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#Person#0" expanded="false" />
+            <element signature="e#4398#4543#0" expanded="false" />
+            <element signature="e#4595#4743#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#Person1#0" expanded="false" />
+            <element signature="e#5667#5714#0" expanded="false" />
+            <element signature="e#5863#5913#0" expanded="false" />
+            <element signature="n#!!block;n#Person2#0" expanded="false" />
+            <element signature="n#!!block;n#Person3#0" expanded="false" />
+            <element signature="e#6235#6366#1" expanded="false" />
+            <element signature="n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#Person5#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person5#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyKotlinProject.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="200" column="43" lean-forward="false" selection-start-line="200" selection-start-column="37" selection-end-line="200" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyKotlinProject.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="689" column="22" lean-forward="true" selection-start-line="689" selection-start-column="22" selection-end-line="689" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlin/Util.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlin/Annotations.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/reflect/KCallable.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="64" column="15" lean-forward="false" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlin/serialization/Serializer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="7" column="48" lean-forward="false" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlin/deserialization/Deserializer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3735">
+          <caret line="90" column="48" lean-forward="false" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlin/deserialization/ClassInfoCache.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2232">
+          <caret line="68" column="9" lean-forward="false" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/collections/Maps.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10080">
+          <caret line="280" column="35" lean-forward="false" selection-start-line="280" selection-start-column="35" selection-end-line="280" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlin/ValueSerializers.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlin/deserialization/Parser.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/util/Standard.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="65" column="24" lean-forward="false" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/com/sun/org/apache/xerces/internal/impl/xs/identity/Selector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="156" column="0" lean-forward="true" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/time/Period.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4572">
+          <caret line="221" column="34" lean-forward="false" selection-start-line="221" selection-start-column="34" selection-end-line="221" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/dataStructuresAndAlgorithms/Session1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/HTMLBuilder.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7290">
+          <caret line="162" column="50" lean-forward="false" selection-start-line="162" selection-start-column="50" selection-end-line="162" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session8.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="88" column="4" lean-forward="false" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session9.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2610">
+          <caret line="44" column="53" lean-forward="false" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session10.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/Session11.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stifler/kotlin/MyTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="293" column="21" lean-forward="true" selection-start-line="293" selection-start-column="16" selection-end-line="293" selection-end-column="25" />
+          <folding>
+            <element signature="e#3067#3397#0" expanded="false" />
+            <element signature="e#3146#3284#0" expanded="false" />
+            <element signature="e#3334#3387#2" expanded="false" />
+            <element signature="n#!!block;n#splitFileName#0" expanded="false" />
+            <element signature="n#!!block;n#splitFileName1#0" expanded="false" />
+            <element signature="n#!!block;n#printEntries#0" expanded="false" />
+            <element signature="e#3855#3896#1" expanded="false" />
+            <element signature="n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#addPropertyChangeListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#removePropertyChangListener#0;n#!!block;n#PropertyChangeAware#0" expanded="false" />
+            <element signature="n#!!block;n#Person#0" expanded="false" />
+            <element signature="e#4398#4543#0" expanded="false" />
+            <element signature="e#4595#4743#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty#0" expanded="false" />
+            <element signature="n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#setValue#0;n#!!block;n#ObservableProperty1#0" expanded="false" />
+            <element signature="n#!!block;n#Person1#0" expanded="false" />
+            <element signature="e#5667#5714#0" expanded="false" />
+            <element signature="e#5863#5913#0" expanded="false" />
+            <element signature="n#!!block;n#Person2#0" expanded="false" />
+            <element signature="n#!!block;n#Person3#0" expanded="false" />
+            <element signature="e#6235#6366#1" expanded="false" />
+            <element signature="n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person4#0" expanded="false" />
+            <element signature="n#!!block;n#Person5#0" expanded="false" />
+            <element signature="n#!!block;n#setAttribute#0;n#!!block;n#Person5#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MyKotlinProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>KotlinJavaRuntime</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
