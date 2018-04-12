@@ -3,7 +3,10 @@ package com.stifler.kotlin
 import java.beans.PropertyChangeListener
 import java.beans.PropertyChangeSupport
 import java.time.LocalDate
+import java.util.*
+import kotlin.collections.ArrayList
 import kotlin.math.max
+import kotlin.math.min
 import kotlin.properties.Delegates
 import kotlin.reflect.KProperty
 
@@ -80,10 +83,20 @@ fun main(args: Array<String>) {
 //    println(doTime(200, intArrayOf(12,11,13,20,50),40000,8))
 //    println(doTime(200, intArrayOf(1,1,1,10,10),5000,10))
 
-    val list = intArrayOf(25,12,4,53,23,6,8,45,14,32,9,76,80)
-    quickSort(list,0,list.size-1)
-    println(list.joinToString())
-
+//    val list = intArrayOf(25,12,4,53,23,6,8,45,14,32,9,76,80)
+//    quickSort(list,0,list.size-1)
+//    println(list.joinToString())
+//    val list = intArrayOf(1,2,3,6,9,4,5,7,8)
+//    val list = intArrayOf(3,7,1,3,5,6,9,10,14,15,7,8,10,12)
+    val list = intArrayOf(3, 7, 1, 3, 5, 6, 9, 4, 7, 8)
+//    val list = intArrayOf(3, 9,8, 7,3)
+//    println(System.currentTimeMillis())
+//    println(getLIS(list))
+//    println(System.currentTimeMillis())
+    println(getLISOfBinarySerch(list))
+//    println(System.currentTimeMillis())
+    println(getLISNew(list).joinToString())
+//    println(System.currentTimeMillis())
 }
 
 operator fun ClosedRange<LocalDate>.iterator(): Iterator<LocalDate> =
@@ -273,13 +286,13 @@ fun binarySearch(array: IntArray, value: Int): Int {
     return low.inv()
 }
 
-fun doTime(maxQps: Int,rtList: IntArray,requestNum: Int, threadNum: Int): Int{
+fun doTime(maxQps: Int, rtList: IntArray, requestNum: Int, threadNum: Int): Int {
     var qpsSum: Int = 0
-    for(rt in rtList){
+    for (rt in rtList) {
         val singleQps = threadNum * 1000 / rt
-        if(singleQps > maxQps){
+        if (singleQps > maxQps) {
             qpsSum += maxQps
-        }else{
+        } else {
             qpsSum += singleQps
         }
     }
@@ -287,40 +300,143 @@ fun doTime(maxQps: Int,rtList: IntArray,requestNum: Int, threadNum: Int): Int{
     return requestNum * 1000 / qpsSum
 }
 
-fun quickSort(array: IntArray,low: Int, high: Int){
+fun quickSort(array: IntArray, low: Int, high: Int) {
     var pivot: Int
 
-    if(high > low){
-        pivot = partition(array,low,high)
+    if (high > low) {
+        pivot = partition(array, low, high)
         println(array.joinToString())
-        quickSort(array,low,pivot-1)
-        quickSort(array,pivot+1,high)
+        quickSort(array, low, pivot - 1)
+        quickSort(array, pivot + 1, high)
     }
 }
 
-fun partition(array: IntArray,low: Int, high: Int): Int{
-    var left:Int
-    var right:Int
-    var pivot_item:Int = array[low]
+fun partition(array: IntArray, low: Int, high: Int): Int {
+    var left: Int
+    var right: Int
+    var pivot_item: Int = array[low]
 
     left = low
     right = high
 
-    while (left < right){
-        while (array[left] <= pivot_item){
+    while (left < right) {
+        while (array[left] <= pivot_item) {
             left++
         }
-        while (array[right] > pivot_item){
+        while (array[right] > pivot_item) {
             right--
         }
-        if(left < right){
+        if (left < right) {
             var temp = array[left]
             array[left] = array[right]
             array[right] = temp
         }
-        println("###"+array.joinToString())
+        println("###" + array.joinToString())
     }
     array[low] = array[right]
     array[right] = pivot_item
     return right
+}
+
+data class LISModel(val size: Int, val content: String) {
+
+    override fun toString(): String {
+        return "size = " + size + ";" + "content = " + content
+    }
+}
+
+fun getLISNew(nums: IntArray): List<LISModel> {
+    var lisModelList: MutableList<LISModel> = mutableListOf<LISModel>()
+    var lisModel: LISModel
+
+    if (nums == null || nums.isEmpty()) {
+        return lisModelList
+    }
+
+    val length = nums.size
+    var max: Int = 1
+    var dp: IntArray = IntArray(length)
+    var dpContent: ArrayList<MutableList<Int>> = ArrayList(length)
+
+    for (i in 0 until length) {
+        dp[i] = 1
+        var sb: MutableList<Int> = mutableListOf()
+        for (j in 0 until i) {
+            if (nums[j] < nums[i]) {
+                dp[i] = max(dp[i], dp[j] + 1)
+                max = max(dp[i], max)
+                if (sb.size < dpContent[j].size) {
+                    sb.clear()
+                    sb.addAll(dpContent[j])
+                }
+            }
+        }
+        sb.add(nums[i])
+        dpContent.add(i, sb)
+        lisModel = LISModel(sb.size, sb.joinToString())
+        if (lisModelList.isEmpty()) {
+            lisModelList.add(lisModel)
+        } else {
+            val tempModel = lisModelList.get(0)
+            if (lisModel.size > tempModel.size) {
+                lisModelList.clear()
+                lisModelList.add(lisModel)
+            } else if (lisModel.size == tempModel.size) {
+                lisModelList.add(lisModel)
+            }
+        }
+    }
+    println("max = " + max)
+    println("dp = " + dp.joinToString())
+    println("dpContent = " + dpContent.joinToString())
+    return lisModelList
+}
+
+fun backTrace(nums: IntArray, sb: MutableList<Int>): MutableList<Int> {
+
+    return sb
+}
+
+fun getLIS(nums: IntArray): Int {
+    if (nums == null || nums.size == 0) {
+        return 0
+    }
+    var sb: MutableList<Int> = mutableListOf()
+    var max: Int = 1
+    var dp: IntArray = IntArray(nums.size)
+
+    for (i in 0 until nums.size) {
+        dp[i] = 1
+        for (j in 0 until i) {
+            if (nums[j] < nums[i]) {
+                dp[i] = Math.max(dp[i], dp[j] + 1)
+                max = Math.max(dp[i], max)
+            }
+        }
+    }
+    println("###" + dp.joinToString())
+    return max;
+}
+
+fun getLISOfBinarySerch(nums: IntArray): Int {
+    if (nums == null || nums.size == 0) {
+        return 0
+    }
+    var max: Int = 1
+    var dp: ArrayList<Int> = ArrayList<Int>(nums.size)
+
+    for (item: Int in nums) {
+        if (dp.size == 0 || dp.get(dp.size - 1) < item) {
+            dp.add(item)
+        } else {
+            var i: Int = Collections.binarySearch(dp, item)
+            if (i < 0) {
+                dp.set(-i - 1, item)
+            } else {
+                dp.set(i, item)
+            }
+        }
+    }
+    println(dp.joinToString())
+    return dp.size
 }
